@@ -10,6 +10,7 @@ $linkedin:       #2b77b1;
 $google-plus:    #c95644;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
+$mail:           #6dabda;
 $rss:            #eea33a;
 
 $darker:         #21211E;
@@ -194,6 +195,10 @@ ul {
 
 	.fa-stack-overflow:hover {
 		color: $stack-overflow;
+	}
+	
+	.fa-mail:hover {
+	    color: $mail;
 	}
 
 	.fa-rss:hover {

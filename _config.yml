@@ -4,7 +4,7 @@ email: brandon@pomeroyb.com
 description: "A personal blog for Brandon Pomeroy"
 baseurl: ""
 url: "http://pomeroyb.com"
-title_description: "3D Printing Specialist, formally trained in Materials Science and Engineering at the University of Washington. Experience with the whole spectrum of the 3D Printing toolchain, from electronics to plastic. Other interests include VR, playing TF2, and taking things apart."
+title_description: "3D Printing specialist, formally trained in Materials Science and Engineering at the University of Washington. Experience with the whole spectrum of the 3D Printing toolchain, from electronics to plastic. Other interests include VR, playing TF2, and taking things apart."
 title_image: "/images/brandon.jpg"
 #google_analytics: "UA-20365477-4"
 disqus_account: pomeroyB
@@ -15,8 +15,9 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: AchillePomeroy
 github_username:  PomeroyB
+email_link: brandon@pomeroyb.com
 #linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-#google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+#google_plus_link: brandon@pomeroyb.com
 #stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
