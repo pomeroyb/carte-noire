@@ -4,9 +4,9 @@
 A simple Jekyll theme for blogging. Not named after the coffee.
 
 ## pomeroyb.com TODO:
-Add mail icon and link to main page
-Look at color options
-Look at customization (Carte Noire is a great theme, but it's good to be unique)
+- Add mail icon and link to main page  
+- Look at color options  
+- Look at customization (Carte Noire is a great theme, but it's good to be unique)  
 
 ![Homepage](http://i.imgur.com/xlmHArV.png)
 
