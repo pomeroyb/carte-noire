@@ -19,10 +19,14 @@ Icon
 .AppleDesktop
 Network Trash Folder
 Temporary Items
-.apdisk
+.
+
 
 # Jekyll Specific
 _site/
 
 # Ruby
 Gemfile.lock
+
+#s3_website
+s3_website.yml
