@@ -51,7 +51,7 @@ The hope is to eventually enclose the entire bot. Though this may seem to be in 
 
 Being able to enclose the chamber means that we can print with ABS and HIPS, as well as other high warp plastics. We can also go the opposite direction, and be able to refrigerate our chamber. Not useful for plastics, but if chocolate was to ever come through those nozzles... Well, that's for a later post.
 
-Stay tuned!
+Stay tuned! 
 
 [1]: https://github.com/jacobtomlinson/carte-noire
 [2]: http://corexy.com/
