@@ -11,6 +11,7 @@ $google-plus:    #c95644;
 $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $envelope:       #6dabda;
+$steam:          #4C6B22;
 $rss:            #eea33a;
 
 $darker:         #21211E;
@@ -203,6 +204,10 @@ ul {
 	
 	.fa-envelope:hover {
 	    color: $envelope;
+	}
+	
+	.fa-steam:hover {
+	    color: $steam;
 	}
 
 	.fa-rss:hover {
