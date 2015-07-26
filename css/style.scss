@@ -27,6 +27,10 @@ $medium-purple:  #480048;
 $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
+$brandon-blue:   #718EA4;
+$pomeroy-pink:   #FB717E;
+/* More colors: http://paletton.com/#uid=13x0u0kllllaFw0g0qFqFg0w0aF */
+
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -51,7 +55,7 @@ body {
 }
 
 a, a:active {
-	color: $light-blue;
+	color: $brandon-blue;
 	text-decoration: none;
 }
 
@@ -132,7 +136,7 @@ ul {
 	padding-right: 30px;
 	margin-top: 20px;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
-	border-bottom: 5px solid $light-blue;
+	border-bottom: 5px solid $brandon-blue;
 }
 
 #my-menu {
@@ -146,7 +150,7 @@ ul {
 	}
 
 	a:hover {
-		color: $light-blue;
+		color: $brandon-blue;
 	}
 
 	.pages {
@@ -233,12 +237,12 @@ ul {
 	}
 
 	.content-panel:nth-of-type(1) {
-		border-bottom: 10px solid $light-blue;
+		border-bottom: 10px solid $brandon-blue;
 	}
 
 	.author-header {
 		font-family: 'Montserrat', sans-serif;
-		color: $light-blue;
+		color: $brandon-blue;
 		margin-top: 0px;
 		padding-top: 15px;
 		font-size: 30px;
@@ -281,7 +285,7 @@ ul {
 
 		h2 {
 			margin-bottom: 30px;
-			color: $light-blue;
+			color: $brandon-blue;
 			font-size: 26px;
 		}
 
@@ -320,7 +324,7 @@ ul {
 		}
 
 		a:hover {
-			color: $light-blue;
+			color: $brandon-blue;
 		}
 	}
 
@@ -347,7 +351,7 @@ ul {
 		}
 
 		a:hover {
-			color: $light-blue;
+			color: $brandon-blue;
 		}
 
 		ul {
@@ -439,7 +443,7 @@ ul {
 		}
 
 		a:hover {
-			color: $light-blue;
+			color: $brandon-blue;
 		}
 
 		h4 {
@@ -654,7 +658,7 @@ ul {
 				}
 
 				a:hover {
-					color: $light-blue;
+					color: $brandon-blue;
 				}
 
 			}
