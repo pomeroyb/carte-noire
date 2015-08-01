@@ -15,7 +15,7 @@ author:     Brandon Pomeroy
 summary:     
 
 #Categories are sort of like folders for Jekyll
-categories: jekyll
+categories: ConfinedXY
 
 #Choose the thumbnail at the top of the post. Choose from thumbs in "/_data/thumbnails.yml" or from fontAwesome list
 thumbnail:  wrench
