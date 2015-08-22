@@ -45,6 +45,6 @@ The only real worry I have with these idlers is the fact that they are cantileve
 
 With that in mind, I've decided to go against the hobbyist mentality of *"over build the everloving fuck out of it"*. If the M3 bolt can't hold against the belt, it's pretty trivial to upgrade to an M5 bolt with MF85ZZ bearings.
 
-That's it for now. I'm still waiting on bearings that are small enough to work with MF83ZZ (Remember that Murphy's law?), but other than that, all that is left is getting the X-carriage machined.
+That's it for now. I'm still waiting on washers that are small enough to work with MF83ZZ (Remember that Murphy's law?), but other than that, all that is left is getting the X-carriage machined.
 
 Stay tuned.
