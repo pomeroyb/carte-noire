@@ -30,3 +30,6 @@ Gemfile.lock
 
 #s3_website
 s3_website.yml
+
+# Ignore Images to keep Github Size small
+images/
