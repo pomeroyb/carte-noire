@@ -4,7 +4,7 @@ email: brandon@pomeroyb.com
 description: "A personal blog for Brandon Pomeroy"
 baseurl: ""
 url: "http://pomeroyb.com"
-title_description: "3D Printing specialist, formally trained in Materials Science and Engineering at the University of Washington. Experience with the whole spectrum of the 3D Printing toolchain, from electronics to plastic. Other interests include VR, playing TF2, and taking things apart."
+title_description: "3D Printing specialist, formally trained in Materials Science and Engineering at the University of Washington. Experience with the whole spectrum of the 3D Printing toolchain, from electronics to plastic. Other interests include VR, computer vision, and taking things apart."
 title_image: "/images/brandon.jpg"
 google_analytics: "UA-66144501-1"
 disqus_account: pomeroyB
@@ -26,10 +26,25 @@ footer_left: "Carte Noire theme by <a href=\"https://twitter.com/_JacobTomlinson
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+# Use the kramdown Markdown renderer
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge 
 permalink: pretty
 exclude: [vendor, "s3_website.yml"]
-
+encoding: utf-8
 highlighter: rouge
+
+#plugins_dir: ./_plugins
+
+plugins:
+  - ./_plugins/twemoji-awesome.rb
+
+# This will require each of these plugins automatically.
+gems:
+  - twemoji-awesome
+
+
+  
