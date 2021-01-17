@@ -81,7 +81,7 @@ To start off, lets see a photo of the finished product:
 ![](/images/basic/introducing-basic.jpg)
 
 
-##The Regrets of the Past
+## The Regrets of the Past
 
 One of my biggest regrets of ConfinedXY was rushing the modeling of it. We were so eager to begin building that we basically stopped digital work once the skeleton was finished. We rationalized it by saying *"Oh, it will be easy to just figure out what we need once we have the frame"*. In reality, the opposite happened. Putting together the frame made us complacent, and we never did get around to actually adding a nice skin. It also skewed the BOM and price -- adding a proper skin to ConfinedXY would probably be an additional $1000 or more (Remember that we were building these quantity of 2).  
 
@@ -97,7 +97,7 @@ Neither of these problems exist with Basic, and I attribute that to much more st
 
 ## The Basic Frame
 
-I have been involved in the [RepRap](http://reprap.org/) scene for quite a while. I built my first printer in Fall of 2012. It was a Clonedel, a Prusa Mendel fork made by Mark Ganter and the UW Solheim Lab. ([I still have a short build log of that on my old site!](http://pomeroyprinting.blogspot.com/2012/09/just-starting-out.html)). 3D printers printing themselves has always been the catchphrase of the RepRap movement, but I've always been a bit disappointed by the application. Sure, the custom brackets can be printed and can save an enormous amount of time, but the user still has to assemble the printer. Printers like the Prusa Mendel/Clonedel, the PrintrBot, and the early MakerBot machines require a tremendous amount of vitamins (Non printed parts) to be assembled. Basic doesn't get away from that completely, but does so more than most.  
+I have been involved in the [RepRap](http://reprap.org/) scene for quite a while. I built my first printer in Fall of 2012. It was a [Clonedel](https://reprap.org/wiki/Clonedel), a Prusa Mendel fork made by Mark Ganter and the UW Solheim Lab. 3D printers printing themselves has always been the catchphrase of the RepRap movement, but I've always been a bit disappointed by the application. Sure, the custom brackets can be printed and can save an enormous amount of time, but the user still has to assemble the printer. Printers like the Prusa Mendel/Clonedel, the PrintrBot, and the early MakerBot machines require a tremendous amount of vitamins (Non printed parts) to be assembled. Basic doesn't get away from that completely, but does so more than most.  
 
 
 

@@ -93,6 +93,6 @@ And we finally get a look at our completed bot skeleton!
 It's hard to get a good size reference from the photos... so here's ConfinedXY engulfing a MakerBot Replicator 2.
 ![](/images/confinedXY/IMAG1265.jpg)
 
-Not a bad build volume! {% twa twa-wink %}
+Not a bad build volume! 
 
 We're waiting on a few more supplies before we move forward... stay tuned!

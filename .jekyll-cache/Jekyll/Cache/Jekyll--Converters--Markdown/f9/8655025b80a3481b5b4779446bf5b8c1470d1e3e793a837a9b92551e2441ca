@@ -1,0 +1,33 @@
+I"\	<p>In order to print plastics like ABS and HIPS, it’s pretty crucial to have a heated build plate. I’m taking it one step further, and plan to eventually heat the entire chamber. By keeping the entire chamber at an elevated temperature, the printed part ends up having far less internal stresses due to thermal gradients. When the print is done, the model cools down as a whole, distributing stress and shrink across the entire part.</p>
+
+<p>Many printers use a PCB heated build plate to generate the necessary heat. I’ve never really liked them, for three reasons:</p>
+
+<ol>
+  <li>
+    <p>They tend to run off of 12/24v, and run at a very high amperage, putting undue stess on the power supply.</p>
+  </li>
+  <li>
+    <p>They tend to warp due to the thermal gradient, so it’s hard to get good adhesion to a heat spreader.</p>
+  </li>
+  <li>
+    <p>Many popular designs are made by hobbyists. This is one of the parts of the printers that can <strong>FUCKING BURN YOUR HOUSE DOWN</strong>, so I believe in going with an engineered solution.</p>
+  </li>
+</ol>
+
+<p>With that in mind, I am using a 600W silicone heat mat from Keenovo. This mat comes with an adhesive that should firmly attach it to my aluminum heat spreader. I’ll probably reinforce it with some extra fiberglass tape.</p>
+
+<p><img src="/images/confinedXY/IMAG1273.jpg" alt="" /></p>
+
+<p>This mat runs off of 120VAC, so it’s switched on and off via a relay (controlled by the MightyBoard).</p>
+
+<p><img src="/images/confinedXY/IMAG1274.jpg" alt="" /></p>
+
+<p>It’s pretty nice because it has integrated power leads and thermistor, but its safety features are lacking. I took the advice of Keenovo’s support representative, and had them send a thermal fuse along with it.</p>
+
+<p><img src="/images/confinedXY/IMAG1276.jpg" alt="" /></p>
+
+<p>This fuse is wired in series with one of the power leads, and is adhered the mat. If the mat gets hotter than 142°C, this fuse will trip, and power will be cut.</p>
+
+<p>I’m considering putting in a few more failsafes, but this is a nice start. Given that my heat bed is the thermal equivalent of 15 heater block cartridges (600 watt bed vs 40 watt heater cartridge), it doesn’t hurt to have some redundancies. Especially considering the <a href="https://www.youtube.com/watch?v=xIA2yzb16Gk">consequences of runaway heaters</a>. I’d really rather not catch on fire.</p>
+
+:ET

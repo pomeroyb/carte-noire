@@ -1,0 +1,16 @@
+I"l<p>Whoopsies. Murphy’s law applies to building 3D printers. In my order from RobotDigg, I mixed up some numbers. Specifically, I got way too many 5mm bore pulleys and bearings, and way too few 8mm bore pulleys and bearings.</p>
+
+<p>Fortunately, RobotDigg’s shipping isn’t <em>too</em> crazy. I’ve had some things come from China that took over two months to make it to the US, but RobotDigg seems to get it there within two weeks (often within one week). It’s not Amazon Prime, but it’s pretty good regardless.</p>
+
+<p>Anyway, we finally got the new pulleys and bearings in. For reference, we are using the style of idler from <a href="http://www.openbeamusa.com/blog/2013/12/28/design-release-the-openbeam-kossel-reprap">OpenBeam</a> – it’s an 8mm bore GT2 pulley with MF83ZZ bearings on either side. I’ve put this style of idler on my chocolate printing Kossel, and it works fantastically. (I keep teasing about chocolate printing, and I promise to do a blog post on it eventually)</p>
+
+<p><img src="/images/confinedXY/IMAG1270.jpg" alt="" /></p>
+
+<p>The only real worry I have with these idlers is the fact that they are cantilevered. When the belts are in place and tightened, the moment on the M3 bolt may be high enough to cause the bolt to tilt. I don’t have any good references for the amount of force the tightened belt will put on the pulley, but the lever arm is only ~7mm at most.</p>
+
+<p>With that in mind, I’ve decided to go against the hobbyist mentality of <em>“over build the everloving fuck out of it”</em>. If the M3 bolt can’t hold against the belt, it’s pretty trivial to upgrade to an M5 bolt with MF85ZZ bearings.</p>
+
+<p>That’s it for now. I’m still waiting on washers that are small enough to work with MF83ZZ (Remember that Murphy’s law?), but other than that, all that is left is getting the X-carriage machined.</p>
+
+<p>Stay tuned.</p>
+:ET

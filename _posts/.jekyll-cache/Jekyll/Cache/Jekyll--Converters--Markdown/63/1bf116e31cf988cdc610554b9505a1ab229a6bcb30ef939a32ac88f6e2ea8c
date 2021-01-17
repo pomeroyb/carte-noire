@@ -1,0 +1,22 @@
+I"a<p>I’ve finally gotten around to building a website for myself. I’m hosting the site off of Amazon AWS, and am using the excellent <a href="https://github.com/jacobtomlinson/carte-noire">Carte Noire</a> as the base theme.</p>
+
+<p>I’ve also been working on a new 3D printer design over the past few months, and what better way to announce that than on this brand new site?</p>
+
+<p>##ConfinedXY
+ConfinedXY is a large format 3D printer, based on the <a href="http://corexy.com/">CoreXY</a> motion platform. It is not a RepRap machine – in fact, the design incorporates zero 3D printed parts so far. It uses 3 belt driven leadscrews to move the print bed along the Z axis. The bot will be driven off of a Rev. E MightyBoard, and will be powered by the excellent <a href="https://github.com/jetty840/Sailfish-MightyBoardFirmware">Sailfish firmware</a>.</p>
+
+<p><img src="/images/confinedXY/01.png" alt="" /></p>
+
+<p>Currently, the machine has a build volume of approximately 500mm in X, 330mm in Y, and 600mm in Z (Or about 20” x 13” by 24”). The gantry is comprised of MGN12H rails on a waterjet aluminum sheet.</p>
+
+<p><img src="/images/confinedXY/02.png" alt="" /></p>
+
+<p>The frame iself is comprised of 1515 aluminum extrusion from Misumi, and is 510mm x 700mm x 1000mm (Or about 20” x 27.5” x 39”).</p>
+
+<p>The hope is to eventually enclose the entire bot. Though this may seem to be in direct violation of <a href="https://www.google.com/patents/US6722872">Stratasys’ patent</a>, we have been careful not to step on its toes. Our motion system (Both the gantry and the Z axis) will lie within the heated build chamber. We also have components that cannot withstand temperatures greater than 140° C, so we will never heat our chamber above 150° C (as specified in the patent).</p>
+
+<p>Being able to enclose the chamber means that we can print with ABS and HIPS, as well as other high warp plastics. We can also go the opposite direction, and be able to refrigerate our chamber. Not useful for plastics, but if chocolate was to ever come through those nozzles… Well, that’s for a later post.</p>
+
+<p>Stay tuned!</p>
+
+:ET

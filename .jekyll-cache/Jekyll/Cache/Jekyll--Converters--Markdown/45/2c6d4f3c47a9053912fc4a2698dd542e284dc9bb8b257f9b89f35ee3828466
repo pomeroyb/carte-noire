@@ -1,0 +1,68 @@
+I"�<p>The last post I made showed my bot’s motors running off of another printer’s electronics. Well, that’s all about to change! Let’s get to it!</p>
+
+<p>The first electronics to think about are the endstops. More importantly, we have to think about endstop failure. Most Replicator/Replicator 2/Replicator 2X owners are familiar with the following wiring harness:</p>
+
+<p><img src="/images/confinedXY/IMAG1344.jpg" alt="" /></p>
+
+<p>Because the X axis moves back and forth so often, those wires tend to break due to fatigue. When they do break, they can cause intermittent failure, which makes it difficult to reliably home the printer.</p>
+
+<p>Rather than just have stranded wire jump from the endstop board to the MightyBoard, I whipped up these jumper boards, and had them fabbed at OSHPark.</p>
+
+<p><img src="/images/confinedXY/IMAG1345.jpg" alt="" /></p>
+
+<p>They are super simple, and even tell you the part numbers of the connectors on the back.</p>
+
+<p><img src="/images/confinedXY/IMAG1346.jpg" alt="" /></p>
+
+<p>What’s special about these boards is connector C3 – it’s a Flat Flex Cable (FFC) connector. FFC are engineered for this exact situation, where there is going to be a lot of back and forth motion. You find it in desktop printers, laser cutters, and even MakerBot’s new 5th Gens (One area of that bot where MakerBot didn’t compromise!).</p>
+
+<p>Unfortunately, the connectors are tiny.</p>
+
+<p><img src="/images/confinedXY/IMAG1349.jpg" alt="" /></p>
+
+<p>When you solder surface mounts, a good flux pen is absolutely necessary.</p>
+
+<p><img src="/images/confinedXY/IMAG1350.jpg" alt="" /></p>
+
+<p>The general idea is to put a small amount of flux on the pad, then tack down a single pin to hold the part in place, and then just blob on a ton of solder.</p>
+
+<p><img src="/images/confinedXY/IMAG1351.jpg" alt="" /></p>
+
+<p><i class="twa twa-scream"></i> That doesn’t look like it will work! But fear not…Simply apply a liberal helping of flux, and reheat the pads:</p>
+
+<p><img src="/images/confinedXY/IMAG1352.jpg" alt="" /></p>
+
+<p>The flux wicks the solder onto the pads, and discourages solder bridges. Magic! <i class="twa twa-sparkles"></i></p>
+
+<p>Through holes are a lot easier to solder up – just dump heat and metal into the holes! Now we’ve got an easy to use adapter board for FFC!</p>
+
+<p><img src="/images/confinedXY/IMAG1356.jpg" alt="" /></p>
+
+<p>We also worked on our stepper wiring harnesses. Thanks to the CoreXY design, all motors are stationary, so normal stranded wire can be used. It’s best to braid your wire to prevent any interference.</p>
+
+<p><img src="/images/confinedXY/IMAG1365.jpg" alt="" /></p>
+
+<p>After a few episodes of <em>Better Off Ted</em>, we had a set of stepper cables!</p>
+
+<p><img src="/images/confinedXY/IMAG1367.jpg" alt="" /></p>
+
+<p>I’m going to digress a bit here to complain about MakerBot’s terrible decision making on the stepper motor connectors. Look at these ridiculous beasts (The pins aren’t pushed all the way in yet).</p>
+
+<p><img src="/images/confinedXY/IMAG1359.jpg" alt="" /></p>
+
+<p>The pins and connectors used are for 18-20 gauge wire, but stepper wires are often in the 22-24 gauge size. This makes the crimps ugly and not as strong as they should be. I don’t know why MakerBot originally did this… but when the stepper pins are bigger than the power supply pins (WTF?!), something is wrong.</p>
+
+<p>Anyways, all that aside, we also mounted up the MightyBoard and the LCD screen.</p>
+
+<p><img src="/images/confinedXY/IMAG1362.jpg" alt="" /></p>
+
+<p><img src="/images/confinedXY/IMAG1363.jpg" alt="" /></p>
+
+<p><img src="/images/confinedXY/IMAG1364.jpg" alt="" /></p>
+
+<p>It’s starting to look and feel like an actual 3D printer! The power supply and plug still needs to be mounted, the firmware needs to be customized for our settings, and there is a ways to go on the extruder and HBP, but still… It feels good to see it all coming together.</p>
+
+<p><img src="/images/confinedXY/IMAG1368.jpg" alt="" /></p>
+
+<p>Beautiful.</p>
+:ET

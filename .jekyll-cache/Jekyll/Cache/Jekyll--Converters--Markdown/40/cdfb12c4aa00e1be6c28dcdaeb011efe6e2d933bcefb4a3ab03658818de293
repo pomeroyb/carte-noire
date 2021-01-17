@@ -1,0 +1,67 @@
+I"�
+<p>When you have a 3D printer, you start to take the ability to make complex shapes for granted. Need a bracket that fits three different sizes of aluminum extrusion? No problem – Just model it up and hit “print”!</p>
+
+<p>Having to mill parts from a solid block is much more labor intensive, and requires more forethought. I tried to design as few machined parts as possible, but there were some areas where it was a necessary evil. For example, the extruder carriage mount.</p>
+
+<p><img src="/images/confinedXY/IMAG1280.jpg" alt="" /></p>
+
+<p>We needed this part to mount to the carriage on the linear rail, and could not find an aluminum U-Channel that worked well… so we made our own.</p>
+
+<p><img src="/images/confinedXY/IMAG1279.jpg" alt="" /></p>
+
+<p><img src="/images/confinedXY/IMAG1284.jpg" alt="" /></p>
+
+<p>I’m very grateful that my printer build partner has both machining skill and access to a mill. Though the above part is technically the only part that <em>requires</em> a mill, there were other parts that benefitted from the accuracy of the mill.</p>
+
+<p><img src="/images/confinedXY/IMAG1281.jpg" alt="" /></p>
+
+<p>A lot of these holes could have been made on a drill press, but it would have taken a lot longer to line them all up.</p>
+
+<p><img src="/images/confinedXY/IMAG1282.jpg" alt="" /></p>
+
+<p>The mill also helped with our leadscrew nuts, which were not <em>exactly</em> the size we were expecting.</p>
+
+<p><img src="/images/confinedXY/IMAG1283.jpg" alt="" /></p>
+
+<p>Unfortunately, we didn’t catch this error soon enough to backport it to our water jet files… so….</p>
+
+<p><img src="/images/confinedXY/IMAG1288.jpg" alt="" /></p>
+
+<p>Good enough! <i class="twa twa-sweat-smile"></i></p>
+
+<p>Anyways, next step is assembling the Z-Axis. First the cross beam…</p>
+
+<p><img src="/images/confinedXY/IMAG1287.jpg" alt="" /></p>
+
+<p>Then we attached the top plate. It’s held on with three M5 bolts, with springs and thumbscrews for easy levelling.</p>
+
+<p><img src="/images/confinedXY/IMAG1285.jpg" alt="" /></p>
+
+<p>Then we loosely affixed the leadscrew nuts.</p>
+
+<p><img src="/images/confinedXY/IMAG1289.jpg" alt="" /></p>
+
+<p>Finally, moment of truth.</p>
+
+<p><img src="/images/confinedXY/IMAG1290.jpg" alt="" /></p>
+
+<p>Oh…. yes.</p>
+
+<p><img src="/images/confinedXY/IMAG1291.jpg" alt="" /></p>
+
+<p>From the top.</p>
+
+<p><img src="/images/confinedXY/IMAG1292.jpg" alt="" /></p>
+
+<p>From the front.</p>
+
+<p><img src="/images/confinedXY/IMAG1293.jpg" alt="" /></p>
+
+<p>From below.</p>
+
+<p><img src="/images/confinedXY/IMAG1294.jpg" alt="" /></p>
+
+<p>Beautiful! <i class="twa twa-smiley"></i></p>
+
+<p>What’s coming next? Belts! Stay tuned!</p>
+:ET

@@ -1,0 +1,66 @@
+I"�
+<p>Having a 3D model of a printer design is nice, but no one knows if its just a pipe dream or reality! Fortunately for me, ConfinedXY is definitely a reality.</p>
+
+<p>First step to building this bot was getting the aluminum 1/8” sheet water jet.
+<img src="/images/confinedXY/IMAG1228.jpg" alt="" /></p>
+
+<p>Next we screwed the gantry’s outer frame to its corresponding 1515.
+<img src="/images/confinedXY/IMAG1229.jpg" alt="" /></p>
+
+<p>We screwed down the bottom plate as well, using our 3D model as a reference.
+<img src="/images/confinedXY/IMAG1230.jpg" alt="" /></p>
+
+<p>At this point, we realized that the black socket cap bolts we were using looked terrible… so we unscrewed everything and replaced them with sexy stainless steel button heads.
+<img src="/images/confinedXY/IMAG1239.jpg" alt="" /></p>
+
+<p>Next up was the internal supports…
+<img src="/images/confinedXY/IMAG1240.jpg" alt="" /></p>
+
+<p>…And then we put on the linear rails.
+<img src="/images/confinedXY/IMAG1241.jpg" alt="" /></p>
+
+<p>Our X cross beam is connected to the Y carriages by three M5 screws.
+<img src="/images/confinedXY/IMAG1242.jpg" alt="" /></p>
+
+<p><img src="/images/confinedXY/IMAG1245.jpg" alt="" /></p>
+
+<p>Any bolts that were subject to vibrations got a liberal helping of Loctite.
+<img src="/images/confinedXY/IMAG1246.jpg" alt="" /></p>
+
+<p>Tapping the holes for endstop boards and pulleys.
+<img src="/images/confinedXY/IMAG1248.jpg" alt="" /></p>
+
+<p>A completed gantry! 
+<img src="/images/confinedXY/IMAG1249.jpg" alt="" /></p>
+
+<p>CoreXY designs rely on a lot of pulleys… We started with 8mm bore 20 tooth GT2 pulleys.
+<img src="/images/confinedXY/IMAG1252.jpg" alt="" /></p>
+
+<p>We then insert two MF83ZZ bearings into each pulley…
+<img src="/images/confinedXY/IMAG1253.jpg" alt="" /></p>
+
+<p>And finally a bolt goes through.
+<img src="/images/confinedXY/IMAG1255.jpg" alt="" /></p>
+
+<p>This pulley assembly gets screwed to the gantry frame.
+<img src="/images/confinedXY/IMAG1256.jpg" alt="" /></p>
+
+<p>Moving on to the Z axis rails…
+<img src="/images/confinedXY/IMAG1257.jpg" alt="" /></p>
+
+<p>And both rails are on! We only use two rails and carriages for our Z axis. The third leadscrew is floating.
+<img src="/images/confinedXY/IMAG1258.jpg" alt="" /></p>
+
+<p>Now we attach the gantry to the rest of the frame.
+<img src="/images/confinedXY/IMAG1261.jpg" alt="" /></p>
+
+<p>And we finally get a look at our completed bot skeleton!
+<img src="/images/confinedXY/IMAG1262.jpg" alt="" /></p>
+
+<p>It’s hard to get a good size reference from the photos… so here’s ConfinedXY engulfing a MakerBot Replicator 2.
+<img src="/images/confinedXY/IMAG1265.jpg" alt="" /></p>
+
+<p>Not a bad build volume!</p>
+
+<p>We’re waiting on a few more supplies before we move forward… stay tuned!</p>
+:ET

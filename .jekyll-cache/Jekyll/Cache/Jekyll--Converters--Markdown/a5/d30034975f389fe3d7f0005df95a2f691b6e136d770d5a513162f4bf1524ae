@@ -1,0 +1,45 @@
+I"S<p>It’s been a while since the last update, and I have been, unfortunately, pretty bad at documenting my progress. So this post won’t be as in depth as others, but at least it’s got some pretty pictures!</p>
+
+<p>We last left our heroes at this point: 
+<img src="/images/confinedXY/IMAG1368.jpg" alt="" />
+Lots has changed! I put on some hot ends: 
+<img src="/images/confinedXY/IMAG1409.jpg" alt="" />
+As well as picked up some super fancy all metal direct drive extruders: 
+<img src="/images/confinedXY/IMAG1395.jpg" alt="" />
+We mounted some endstops: 
+<img src="/images/confinedXY/IMAG1396.jpg" alt="" />
+I also ended up putting the heated bed into place. 
+<img src="/images/confinedXY/IMAG1418.jpg" alt="" />
+The relay that will drive it is mounted to a sizeable heatsink: 
+<img src="/images/confinedXY/IMAG1417.jpg" alt="" />
+And we affixed a thermal fuse to it for safety! 
+<img src="/images/confinedXY/IMAG1422.jpg" alt="" />
+The heater doesn’t cover the whole bed, but I’m counting on the aluminum spreading the heat evenly enough to compensate. 
+<img src="/images/confinedXY/IMAG1423.jpg" alt="" />
+We also fabbed up some structures that hold filament. Laser cut melamine is much easier to work with than waterjet aluminum! 
+<img src="/images/confinedXY/IMAG1425.jpg" alt="" />
+The two boxes sit nicely, framing our Z axis. 
+<img src="/images/confinedXY/IMAG1427.jpg" alt="" />
+Now I needed to fab up my water block to cool my hot ends: 
+<img src="/images/confinedXY/IMAG1430.jpg" alt="" />
+Holes were drilled, then tapped: 
+<img src="/images/confinedXY/IMAG1431.jpg" alt="" />
+And amazingly, it all fit perfectly on the first try! 
+<img src="/images/confinedXY/IMAG1432.jpg" alt="" />
+Now was the nerve wracking part – actually putting water into the system! We laid the loop out in a way that was least likely to fry the electronics in case of a leak, and let it run for 24 hours. All was dry! 
+<img src="/images/confinedXY/IMAG1433.jpg" alt="" />
+To prevent growth in the loop, we added a antimicrobial silver coil to the reservoir: 
+<img src="/images/confinedXY/IMAG1434.jpg" alt="" />
+We laser cut some melamine to act as a temporary bed, and taped it up: 
+<img src="/images/confinedXY/IMAG1453.jpg" alt="" />
+<img src="/images/confinedXY/IMAG1454.jpg" alt="" />
+Now we had what looks like a real printer! 
+<img src="/images/confinedXY/IMAG1456.jpg" alt="" />
+After some preliminary calibration (which wasn’t too bad, since most of my motors closely match MakerBot’s setup), I printed my first “real” print: 
+<img src="/images/confinedXY/IMAG1516.jpg" alt="" />
+Yoda’s got a few chin hairs, but overall it was a big success! <i class="twa twa-smile"></i>
+<img src="/images/confinedXY/IMAG1518.jpg" alt="" />
+But wait… that’s only one color! I’ve been working to calibrate the second nozzle, but we’ll save that for the next post…</p>
+
+<p>Stay tuned!</p>
+:ET
